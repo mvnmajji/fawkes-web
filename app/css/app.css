@@ -97,3 +97,8 @@ ul.specs dt {
 h1 {
   border-bottom: 1px solid gray;
 }
+
+.tab {
+  margin-left:25%;
+  margin-right:25%;	
+}
